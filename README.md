@@ -6,7 +6,7 @@ A GPT-4o-powered Next.js application that analyzes satellite images to assess em
 
 <img width="1467" height="755" alt="image" src="https://github.com/user-attachments/assets/8463edad-67a3-404c-8fda-d29c5d2a3ac8" />
 <img width="1462" height="874" alt="image" src="https://github.com/user-attachments/assets/083dbb1c-d3ff-4e3c-aeb9-7487ddf6ded8" />
-
+Here is the deployed app: https://emergency-response-analyzer-xmym.vercel.app/
 ---
 
 ## 🚀 Features
